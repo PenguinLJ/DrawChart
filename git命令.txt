@@ -1,0 +1,14 @@
+1、使用命令行创建一个新仓库
+echo "# DrawChart" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:PenguinLJ/DrawChart.git
+git push -u origin main
+
+
+2、使用命令行上传一个已存在的库
+git remote add origin git@github.com:PenguinLJ/DrawChart.git
+git branch -M main
+git push -u origin main
