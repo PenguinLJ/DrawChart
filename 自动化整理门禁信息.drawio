@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T02:36:08.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gIdilbaeD9pLEOvJdrNk" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-05T02:36:47.448Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MgbLor_AeZmz3M1Xseiw" version="22.1.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="185" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xz1nmAx9QvrgqzK91KpJ-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="187.5" y="850" width="105" height="50" as="geometry" />
+          <mxGeometry x="185" y="930" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Xz1nmAx9QvrgqzK91KpJ-5" value="助理整理好一周的门禁数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="200" width="130" height="60" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="SEK0KGETxBTAh0PKZT3X-0" value="新建“整理表”，里面包含部门、岗位、次数、理由。最后一栏为进出的总次数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="720" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SEK0KGETxBTAh0PKZT3X-1" value="将整理好的xlsx文件发送给领导" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="830" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
